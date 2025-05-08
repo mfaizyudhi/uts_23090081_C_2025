@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "681c0dc796224ca05083273f"
+  },
+  "NIM": "23090081",
+  "KELAS": "C",
+  "TAHUN": "2025",
+  "PRODUK": {
+    "name": "flash disk",
+    "merk": "sandisk",
+    "size": [
+      "8GB",
+      "16GB",
+      "32GB"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c15399ab110bbba71c26e"
+  },
+  "NIM": "23090081",
+  "KELAS": "C",
+  "TAHUN": "2025",
+  "PRODUK": {
+    "name": "flash disk",
+    "merk": "kingston",
+    "size": [
+      "8GB",
+      "16GB",
+      "32GB"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c155b82ccf8ead55db13c"
+  },
+  "NIM": "23090081",
+  "KELAS": "C",
+  "TAHUN": "2025",
+  "PRODUK": {
+    "name": "flash disk",
+    "merk": "kingston",
+    "size": [
+      "8GB",
+      "16GB",
+      "32GB"
+    ]
+  }
+}]
